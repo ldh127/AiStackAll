@@ -13,7 +13,8 @@
 ![](https://gitee.com/ldh521/picgo/raw/master/img/zsxq_fx.jpeg)
 
 
-本项目包括了 
+本项目包括了 :
+
 (1) 实战企业级机器学习pipline, 涵盖企业级机器学习实战
 
 (2) 机器学习模型之理论与实践
